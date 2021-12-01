@@ -1,6 +1,6 @@
 {
   "name": "@kmccullough/env-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parses environment config file/string with variable replacements",
   "repository": {
     "type": "git",
