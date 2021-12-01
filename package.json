@@ -1,0 +1,29 @@
+{
+  "name": "@kmccullough/env-config",
+  "version": "1.0.0",
+  "description": "Parses environment config file/string with variable replacements",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kmccullough/env-config"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "keywords": [
+    "utility",
+    "parse",
+    "replacement",
+    "environment",
+    "config",
+    "file"
+  ],
+  "author": "Kerry McCullough <subone@subone.org> http://subone.org/",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  }
+}
